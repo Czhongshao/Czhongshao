@@ -1,4 +1,4 @@
-## Hi there is Zhongshao(中少)👋
+## Hi, here is Zhongshao(中少)👋
 ### Czhongshao is meaning I'm from China.
 <!--
 **Czhongshao/Czhongshao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### There are my github state.
+### There are my github states.
 
-![Czhongshao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Czhongshao&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Czhongshao&theme=graywhite&layout=compact)
+![Czhongshao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Czhongshao&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide=contribs&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Czhongshao&theme=radical&layout=compact&bg_color=0D1117&title_color=00F5D4&text_color=FFFFFF)
