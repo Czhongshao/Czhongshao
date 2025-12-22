@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 ### There are my github states.
 
 ![Czhongshao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Czhongshao&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide=contribs&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Czhongshao&theme=radical&layout=compact&bg_color=0D1117&title_color=00F5D4&text_color=FFFFFF)
