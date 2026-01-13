@@ -23,7 +23,7 @@
 
 ## 📈 全年提交活跃曲线
 
-<!-- 近一年提交活跃情况（该组件不支持切换年份） -->
+<!-- 近一年提交活跃情况 -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Czhongshao&theme=react-dark&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&hide_border=true" />
 </p>
@@ -45,7 +45,6 @@
 
   <!-- 后端框架 -->
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
   <!-- 数据库 -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
