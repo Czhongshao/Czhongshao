@@ -5,7 +5,7 @@
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Czhongshao&theme=radical)](https://github.com/Czhongshao)
 
 ### Top Languages
-![Top Langs](https://github-readme-top-langs.vercel.app/api?username=Czhongshao&layout=compact&theme=radical&bg_color=1A1A2E&title_color=9F7AEA&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Czhongshao&layout=compact&theme=radical&bg_color=1A1A2E&title_color=9F7AEA&text_color=FFFFFF)
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
