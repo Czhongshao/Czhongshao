@@ -7,7 +7,7 @@
 
 <!-- GitHub 统计信息（github-readme-stats） -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhongshao&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=radical&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=Czhongshao&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=radical&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Czhongshao&theme=radical)" />
 </p>
 
 ---
